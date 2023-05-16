@@ -1,3 +1,3 @@
 # xff-header-viewer
-Aplicação simples em Python para coletar os LOG's de acesso recebidos e emitir em tela os IP's de origem a partir de varios cabeçalhos.
-Teste
+Este projeto em Python consiste em uma aplicação que coleta LOGs de acesso e exibe na tela informações relevantes, como headers de solicitação. Ele foi desenvolvido para ajudar na visualização de acessos a um servidor ou aplicação web.
+
